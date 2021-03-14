@@ -9,7 +9,7 @@ categories: background
 
 I've always been fascinated with learning. How do I learn something new? How does a baby figure out movement and language so quickly? How does a community evolve over time to better address the needs of its members - i.e., collectively learn? How do we gain an understanding another person's lived experiences, and gain that sense of empathy and perspective? What happens during that magical transition when a concept goes from foggy foresight to obvious hindsight?
 
-By now, you've probably noticed I like questions. I believe that the root of learning is not about building a big database of "answers." Rather, it's about crafting **trains of questions** that (a) make useful new ideas obvious and natural, and (b) welcomes others into the process. A "answer" is a wall; a question is an open door.
+I believe that the root of learning is not about building a big database of "answers." Rather, it's about crafting **trains of questions** that (a) make useful new ideas obvious and natural, and (b) welcomes others into the process. A "answer" is a wall; a question is an open door.
 
 # What is QuestTrain's goal?
 
