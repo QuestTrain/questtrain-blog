@@ -20,6 +20,7 @@ You guessed it, there is no single right answer. But here are some useful framin
 - **Human-machine learning model**: Can we collectively build an interpretable, inclusive, and diverse AI model of the world? What would we learn if we could only cite data from primary sources?
 - **Presentations/papers designed for the audience**: What is the best way to share understanding with an audience?
 - **Efficient teaching**: How do I "hop on the train of thought" of a person I respect? How do I get a feel for how they approach a difficult problem?
+- **Goal-oriented view of the world**: Would we make more efficient progress on hard problems if we looked at how systems should or could address goals, rather than definitions of how things currently exist?
 
 To ground our questions, we provide two additional primitives: data carts and actions. **Data carts** are the placeholders we reserve for data to feed in - the primary-source information that is relevant to making decisions on our questions. **Actions** are automations (APIs, webhooks, etc.) that can be triggered based on information in those data carts. These few primitives provide the building blocks for much more.
 
