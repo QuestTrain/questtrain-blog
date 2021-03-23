@@ -47,6 +47,7 @@ Some of these features exist now, and others are on the roadmap - stay tuned!
 - Share links to QuestTrains
 - Specify data carts
 - Link data feeds to the data carts
+- Do a "what if?" analysis by assuming a value for a data cart, and evaluating how that affects downstream questions
 - Add automations / APIs / webhooks that trigger when a question's data cart is filled in a way that meets some question's criteria
 - Analyze and sort questions. For example, which questions lead to the most follow-on questions (most interesting)? Which questions have the most data carts filled (most evidence)? Which questions are requested by the most people (broadest reach)?
 - And more!
