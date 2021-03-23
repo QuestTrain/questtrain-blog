@@ -21,7 +21,7 @@ You guessed it, there is no single right answer. But here are some useful framin
 - **Presentations/papers designed for the audience**: Slide decks and journal articles have drawbacks - so what is the best way to share understanding with an audience?
 - **Efficient teaching**: How do I "hop on the train of thought" of a person I respect? How do I get a feel for how they approach a difficult problem?
 - **Goal-oriented view of the world**: Would we make more progress on hard problems if we looked at how systems could or should address goals, rather than definitions of how things currently exist?
-- **Empathy**: Would it help to see the types of questions that are important to people of different backgrounds? Would that provide a better understanding of their lived experiences, and how that shapes their perspectives?
+- **Empathy**: Would it help to see the types of questions that are top-of-mind for people of different backgrounds? Would that provide a better understanding of their lived experiences, and how that shapes their perspectives?
 - **How-tos for figuring it out**: Rather than blindly following a protocol, how could I have - from first priciples - figured out how to accomplish some goal?
 
 Maybe a little too ambitious? Yeah, but it's more fun than shooting for something easy!
@@ -34,10 +34,27 @@ At this point, you may be wondering, "where are the answers?" It may seem weird 
 
 To ground our questions, we provide two additional primitives that can be attached to QuestTrains: data carts and actions. **Data carts** are the placeholders we reserve for data to feed in - the primary-source information that is relevant to making decisions on our questions. For example, you could specify column names in a table of anticipated clinical trial results. **Actions** are automations (APIs and webhooks) that can be triggered based on information in those data carts. These primitives help turn QuestTrain ideas into executable "programs," and turn the whole network into an interpretable and testable model of the world.
 
+# What can you do?
+
+Some of these features exist now, and others are on the roadmap - stay tuned!
+
+- Ask a question and add it to the network
+- Search for related questions
+- Explore the question network, hop around the links, spark your creativity
+- Create QuestTrains
+- Explore other QuestTrains and build your own by diverging off theirs
+- Follow another user and see their QuestTrains
+- Share links to QuestTrains
+- Specify data carts
+- Link data feeds to the data carts
+- Add automations / APIs / webhooks that trigger when a question's data cart is filled in a way that meets some question's criteria
+- Analyze and sort questions. For example, which questions lead to the most follow-on questions (most interesting)? Which questions have the most data carts filled (most evidence)? Which questions are requested by the most people (broadest reach)?
+- And more!
+
 # Why the name "QuestTrain"?
 
 QuestTrain sounds like "question," and the domain name was much cheaper. Plus, the train analogy works on many levels: *train of thought*, *learning tracks*, *making the connection*, search *engine*, etc... And finally, we're on a *quest* for understanding. We're very pro-wordplay.
 
-# Bottom line
+# What's the bottom line?
 
 QuestTrain is an attempt to make questions cool. Interested? We're building the prototype now, and soon you will be able to [try it out!](https://questtrain.com)
