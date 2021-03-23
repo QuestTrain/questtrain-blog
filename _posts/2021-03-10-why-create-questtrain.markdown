@@ -40,8 +40,8 @@ Some of these features exist now, and others are on the roadmap - stay tuned!
 
 - Ask a question and add it to the network
 - Search for related questions
-- Explore the question network, hop around the links, spark your creativity
-- Explore other QuestTrains and build your own by diverging off theirs
+- Explore the question network, hop around the links, and spark your creativity
+- Explore other QuestTrains and build your own off theirs
 - Follow another user and see their QuestTrains
 - Share links to QuestTrains
 - Specify data carts
@@ -50,11 +50,11 @@ Some of these features exist now, and others are on the roadmap - stay tuned!
 - Add automations / APIs / webhooks that trigger when a question's data cart is filled in a way that meets some question's criteria
 - Analyze and sort questions. For example, which questions lead to the most follow-on questions (most interesting)? Which questions have the most data carts filled (most evidence)? Which questions are requested by the most people (broadest reach)?
 
-But wait, there's more! If you order within the next 30 minutes, we'll throw in a FREE travel-size microfiber sham. That's at $20 value! (Some restrictions apply*)
+But wait, there's more! If you order within the next 30 minutes, we'll throw in a FREE travel-size microfiber sham. That's a $20 value! (Some restrictions apply*)
 
-# Why the name "QuestTrain"?
+# Why the name *QuestTrain*?
 
-QuestTrain sounds like "question," and the ".com" domain name was much cheaper. Plus, the train analogy works on many levels: *train of thought*, *learning tracks*, *making the connection*, search *engine*, etc... And finally, we're on a *quest* for understanding. We're very pro-wordplay.
+QuestTrain sounds like *question*, and the ".com" domain name was much cheaper. Plus, the train analogy works on many levels: *train of thought*, *learning tracks*, *making the connection*, search *engine*, etc... And finally, we're on a *quest* for understanding. We're very pro-wordplay.
 
 # What's the bottom line?
 
