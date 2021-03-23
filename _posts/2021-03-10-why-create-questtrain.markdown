@@ -50,7 +50,8 @@ Some of these features exist now, and others are on the roadmap - stay tuned!
 - Do a "what if?" analysis by assuming a value for a data cart, and evaluating how that affects downstream questions
 - Add automations / APIs / webhooks that trigger when a question's data cart is filled in a way that meets some question's criteria
 - Analyze and sort questions. For example, which questions lead to the most follow-on questions (most interesting)? Which questions have the most data carts filled (most evidence)? Which questions are requested by the most people (broadest reach)?
-- And more!
+
+But wait, there's more! If you order within the next 30 minutes, we'll throw in a FREE travel-size microfiber sham. That's at $20 value! (Some restrictions apply*)
 
 # Why the name "QuestTrain"?
 
@@ -59,3 +60,5 @@ QuestTrain sounds like "question," and the domain name was much cheaper. Plus, t
 # What's the bottom line?
 
 QuestTrain is an attempt to make questions cool. Interested? We're building the prototype now, and soon you will be able to [try it out!](https://questtrain.com)
+
+<sup>* Microfiber sham is a sham. Not actually included.</sup> 
