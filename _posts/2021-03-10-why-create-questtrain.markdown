@@ -22,7 +22,7 @@ You guessed it, there is no single right answer. But here are some useful framin
 - **Efficient teaching**: How do I "hop on the train of thought" of a person I respect? How do I get a feel for how they approach a difficult problem?
 - **Goal-oriented view of the world**: Would we make more progress on hard problems if we looked at how systems could or should address goals, rather than textbook definitions of how things currently exist?
 - **Empathy**: Would it help to see the types of questions that are top-of-mind for people of different backgrounds? Would that provide a better understanding of their lived experiences, and how that shapes their perspectives?
-- **How-tos for figuring it out**: Rather than blindly following a protocol, how could I have - from first priciples - figured out how to accomplish some goal?
+- **How-tos for figuring it out**: Rather than blindly following a protocol, how could I have - from first principles - figured out how to accomplish some goal?
 
 Maybe a little too ambitious? Yeah, but it's more fun than shooting for something easy!
 
