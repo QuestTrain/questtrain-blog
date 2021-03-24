@@ -28,7 +28,7 @@ Maybe a little too ambitious? Yeah, but it's more fun than shooting for somethin
 
 # How does it work?
 
-The crux of the platform is a **QuestTrain** - a community-built, composable train of thought. In the simplest case, a train is just a series of questions - users add questions and link them up. This, in turn, creates a big ol' network of searchable, pluggable human thought and discovery.
+The crux of the platform is a **QuestTrain** - a community-built, composable train of thought. In the simplest case, a train is just a series of questions - users add questions and link them up. Add a bunch of interesting people with interesting questions, and this creates a big ol' network of searchable, pluggable human thought and discovery.
 
 At this point, you may be wondering, "where are the answers?" It may seem weird to build a search engine with no answers, but our hypothesis is that questions (and specifically how questions lead to one another) are far more useful in a creative or generative setting. Specifically, QuestTrains are designed for making progress on the hard, hairy, ambiguous, and overwhelming problems where there is no single "right answer" - questions like "How does cancer work?" or "How do we solve climate change?" These questions are not going to be solved by a website link or searching for specific, isolated bits of knowledge. Rather, we'll make progress by pulling in ideas from different domains, testing hypotheses, and making connections.
 
