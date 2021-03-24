@@ -17,7 +17,7 @@ You guessed it, there is no single right answer. But here are some useful framin
 
 - **Understanding engine**: What would a search engine look like if the goal was deeper understanding of nuanced topics, rather than click-through?
 - **Version control for critical thinking and decision-making**: How do we bring the advantages of software development into the learning process? How do we make critical thinking cool?
-- **Human-machine learning model**: Can we collectively build an interpretable, inclusive, and diverse AI model of the world? What would we learn if we could only cite data from primary sources?
+- **Human-machine learning model**: Can we collectively build an interpretable, inclusive, and diverse AI model of the world? What would we learn if we could only cite data from primary sources? Can we make networked science a reality?
 - **Presentations/papers designed for the audience**: Slide decks and journal articles have drawbacks - so what is the best way to share understanding with an audience?
 - **Efficient teaching**: How do I "hop on the train of thought" of a person I respect? How do I get a feel for how they approach a difficult problem?
 - **Goal-oriented view of the world**: Would we make more progress on hard problems if we looked at how systems could or should address goals, rather than textbook definitions of how things currently exist?
