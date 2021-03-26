@@ -5,4 +5,4 @@
 layout: home
 ---
 
-_The official blog for [QuestTrain.com](https://questtrain.com)_
+_The official blog for [QuestTrain.com](https://www.questtrain.com)_
