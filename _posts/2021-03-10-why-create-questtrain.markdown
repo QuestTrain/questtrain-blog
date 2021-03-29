@@ -60,6 +60,6 @@ QuestTrain sounds like *question*, and the ".com" domain name was much cheaper. 
 
 # What's the bottom line?
 
-QuestTrain is an attempt to make questions cool. Interested? We're building the prototype now, and soon you will be able to [try it out!](https://questtrain.com)
+QuestTrain is an attempt to make questions cool. Interested? [Check it out!](https://questtrain.com)
 
 <sub>* Microfiber sham is a sham. Not actually included.</sub> 
