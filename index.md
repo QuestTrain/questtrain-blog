@@ -5,6 +5,7 @@
 layout: home
 ---
 <head>
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
     <script>
         !(function (t, e) {
         var o, n, p, r;
@@ -52,4 +53,4 @@ layout: home
     </script>
 </head>
 
-_The official blog for [QuestTrain.com](https://www.questtrain.com)_
+<div style="text-align:center"><a href="https://www.questtrain.com"><img src="/assets/QuestTrainLogoGreen.png" height="128" /></a></div>

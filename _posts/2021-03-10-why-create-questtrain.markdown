@@ -11,6 +11,8 @@ I've always been fascinated with learning. How do I learn something new? How doe
 
 I believe that the root of learning is not about building a big database of "answers." Rather, it's about crafting **trains of questions** that (a) make useful new ideas obvious and natural, and (b) welcomes others into the process. A answer is a wall; a question is an open door.
 
+<div style="text-align:center"><a href="https://www.questtrain.com"><img src="/assets/QuestTrainLogoGreen.png" height="128" /></a></div>
+
 # What is the goal?
 
 You guessed it, there is no single right answer. But here are some useful framing questions:
