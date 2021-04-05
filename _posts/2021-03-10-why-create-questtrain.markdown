@@ -17,13 +17,12 @@ I believe that the root of learning is not about building a big database of "ans
 
 You guessed it, there is no single right answer. But here are some useful framing questions:
 
-- **Understanding engine**: What would a search engine look like if the goal was deeper understanding of nuanced topics, rather than click-through?
-- **Version control for critical thinking and decision-making**: How do we bring the advantages of software development into the learning process? How do we make critical thinking cool?
-- **Human-machine learning model**: Can we collectively build an interpretable, inclusive, and diverse AI model of the world? What would we learn if we could only cite data from primary sources? 
-- **Presentations/papers designed for the audience**: Slide decks and journal articles have drawbacks - so what is the best way to share understanding with an audience? Can we make networked science a reality?
+- **Understanding engine**: What would a search engine look like if the goal was deeper understanding of nuanced topics, rather than webpage traffic?
+- **Version control for critical thinking**: How do we bring the advantages of software development into the learning process? How do we make critical thinking cool?
+- **Presentations designed for the audience**: Slide decks and journal articles have drawbacks - so what is the best way to share understanding with an audience? Can we make networked science a reality?
 - **Efficient teaching**: How do I "hop on the train of thought" of a person I respect? How do I get a feel for how they approach a difficult problem?
-- **Goal-oriented view of the world**: Would we make more progress on hard problems if we looked at how systems could or should address goals, rather than textbook definitions of how things currently exist?
 - **Empathy**: Would it help to see the types of questions that are top-of-mind for people of different backgrounds? Would that provide a better understanding of their lived experiences, and how that shapes their perspectives?
+- **Human-machine learning model**: Can we collectively build an interpretable, inclusive, and diverse AI model of the world? 
 - **How-tos for figuring it out**: Rather than blindly following a protocol, how could I have - from first principles - figured out how to accomplish some goal?
 
 Maybe a little too ambitious? Yeah, but it's more fun than shooting for something easy!
