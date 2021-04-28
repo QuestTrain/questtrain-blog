@@ -66,13 +66,10 @@ I believe that the root of learning is not about building a big database of "ans
 
 You guessed it, there is no single right answer. But here are some useful framing questions:
 
-- **Understanding engine**: What would a search engine look like if the goal was deeper understanding of nuanced topics, rather than webpage traffic?
+- **Understanding engine**: What would a search engine look like if the goal was deeper understanding of challenging or unsolved topics, rather than webpage traffic?
 - **Version control for critical thinking**: How do we bring the advantages of software development into the learning process? How do we make critical thinking cool?
-- **Presentations designed for the audience**: Slide decks and journal articles have drawbacks - so what is the best way to share understanding with an audience? Can we make networked science a reality?
-- **Efficient teaching**: How do I "hop on the train of thought" of a person I respect? How do I get a feel for how they approach a difficult problem?
+- **Efficient teaching**: How do I "hop on the train of thought" of a person I respect? How do I get a feel for how they approach a difficult problem? Can we make networked science a reality?
 - **Empathy**: Would it help to see the types of questions that are top-of-mind for people of different backgrounds? Would that provide a better understanding of their lived experiences, and how that shapes their perspectives?
-- **Human-machine learning model**: Can we collectively build an interpretable, inclusive, and diverse AI model of the world? 
-- **How-tos for figuring it out**: Rather than blindly following a protocol, how could I have - from first principles - figured out how to accomplish some goal?
 
 Maybe a little too ambitious? Yeah, but it's more fun than shooting for something easy!
 
@@ -80,9 +77,9 @@ Maybe a little too ambitious? Yeah, but it's more fun than shooting for somethin
 
 The crux of the platform is a **QuestTrain** - a community-built, composable train of thought. In the simplest case, a train is just a series of questions - users add questions and link them up. Add a bunch of interesting people with interesting questions, and this creates a big ol' network of searchable, pluggable human thought and discovery.
 
-At this point, you may be wondering, "where are the answers?" It may seem weird to build a search engine with no answers, but our hypothesis is that questions (and specifically how questions lead to one another) are far more useful in a creative or generative setting. Plus, QuestTrain is not really a search engine or Q&A forum - it's more like a playground for discovery. Specifically, QuestTrains are designed for making progress on the hard, hairy, ambiguous, and overwhelming problems where there is no single "right answer" - questions like "How does cancer work?" or "How do we solve climate change?" These questions are not going to be solved by a website link or searching for specific, isolated bits of knowledge. Rather, we'll make progress by pulling in ideas from different domains, testing hypotheses, and making connections.
+At this point, you may be wondering, "where are the answers?" It may seem weird to build a search engine with no answers, but our hypothesis is that questions (and specifically how questions lead to one another) are far more useful in a creative or discovery setting. Plus, QuestTrain is not a search engine or Q&A forum. Specifically, QuestTrain is designed for making progress on the hard, hairy, ambiguous, and overwhelming problems where there is no single "right answer" - questions like "How does cancer work?" or "How do we solve climate change?" These questions are not going to be solved by a website link or searching for specific, isolated bits of knowledge. Rather, we'll make progress by pulling in ideas from different domains, testing hypotheses, and making connections.
 
-To ground our questions, we provide two additional primitives that can be attached to QuestTrains: data carts and actions. **Data carts** are the placeholders we reserve for data to feed in - the standard-format primary-source information that is relevant to making decisions on our questions. For example, you could specify column names in a table of anticipated clinical trial results or CO2 sensor arrays. **Actions** are automations (APIs and webhooks) that can be triggered based on information in those data carts. These primitives help turn QuestTrain ideas into executable "programs," and turn the whole network into an interpretable and testable model of the world.
+To ground our questions, we provide two additional primitives that can be attached to QuestTrains: data carts and actions. **Data carts** are the placeholders we reserve for data - the standard-format primary-source information that is relevant to making decisions on our questions. For example, you could specify column names in a table of anticipated clinical trial results or CO2 sensor arrays. **Actions** are automations (APIs and webhooks) that can be triggered based on information in those data carts. These primitives help turn QuestTrain ideas into executable "programs," and turn the whole network into an interpretable and testable model of the world.
 
 # What can you do?
 
@@ -94,11 +91,11 @@ Some of these features exist now, and others are on the roadmap - stay tuned!
 - Explore other QuestTrains and build your own off theirs
 - Follow another user and see their QuestTrains
 - Share links to QuestTrains
-- Specify data carts
-- Link data feeds to the data carts
-- Do a "what if?" analysis by assuming a value for a data cart, and evaluating how that affects downstream questions
-- Add automations / APIs / webhooks that trigger when a question's data cart is filled in a way that meets some question's criteria
-- Analyze and sort questions. For example, which questions lead to the most follow-on questions (most interesting)? Which questions have the most data carts filled (most evidence)? Which questions are requested by the most people (broadest reach)?
+- Share data in a standard format
+- Connect questions to relevant data
+- (Coming soon) Do a "what if?" analysis by assuming a value for a data cart, and evaluating how that affects downstream questions
+- (Coming soon) Add automations / APIs / webhooks that trigger when a question's data cart is filled in a way that meets some question's criteria
+- (Coming soon) Analyze and sort questions. For example, which questions lead to the most follow-on questions (most interesting)? Which questions have the most data carts filled (most evidence)? Which questions are requested by the most people (broadest reach)?
 
 But wait, there's more! If you order within the next 30 minutes, we'll throw in a FREE travel-size microfiber sham. That's a $20 value! (Some restrictions apply*)
 
