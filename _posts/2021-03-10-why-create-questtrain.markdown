@@ -7,6 +7,7 @@ categories: background
 
 <head>
     <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+    <script async defer data-domain="blog.questtrain.com" src="https://plausible.io/js/plausible.js"></script>
     <script>
         !(function (t, e) {
         var o, n, p, r;
