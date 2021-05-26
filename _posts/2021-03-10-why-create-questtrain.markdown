@@ -51,6 +51,7 @@ categories: background
         })(document, window.posthog || []);
         posthog.init('Me-DWX5oXqZ5yQQQMvGPk0xjasnVcQrvzO5q3KI-QM0', {
         api_host: 'https://questtrain-analytics.herokuapp.com',
+        disable_cookie: true,
         });
     </script>
 </head>
