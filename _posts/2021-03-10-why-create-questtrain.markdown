@@ -57,9 +57,9 @@ categories: background
 
 **By: Michael Vogelsong**
 
-I've always been fascinated with learning. How do I learn something new? How does a baby figure out movement and language so quickly? How does a community evolve over time to better address the needs of its members - i.e., collectively learn? How do we gain an understanding another person's lived experiences, and gain that sense of empathy and perspective? What happens during that magical transition when a concept goes from foggy foresight to obvious hindsight?
+I've always been fascinated with learning. How do I learn something new? How does a community evolve over time to better address the needs of its members - i.e., collectively learn? What happens during that magical transition when a concept goes from foggy foresight to obvious hindsight?
 
-I believe that the root of learning is not about building a big database of "answers." Rather, it's about crafting **trains of questions** that (a) make useful new ideas obvious and natural, and (b) welcomes others into the process. A answer is a wall; a question is an open door.
+I believe that the root of learning is not about building a big database of "answers." Rather, it's about crafting **trains of evidence-based questions** that (a) make useful new ideas obvious and natural, and (b) welcomes others into the process. A answer is a wall; a question is an open door.
 
 <div style="text-align:center"><a href="https://www.questtrain.com"><img src="/assets/QuestTrainLogoGreen.png" height="128" /></a></div>
 
@@ -67,20 +67,19 @@ I believe that the root of learning is not about building a big database of "ans
 
 You guessed it, there is no single right answer. But here are some useful framing questions:
 
-- **Understanding engine**: What would a search engine look like if the goal was deeper understanding of challenging or unsolved topics, rather than webpage traffic?
+- **Understanding engine**: What would a search engine look like if the goal was deeper understanding of challenging or unsolved topics, rather than webpage traffic? What if all results were data-driven?
 - **Version control for critical thinking**: How do we bring the advantages of software development into the learning process? How do we make critical thinking cool?
-- **Efficient teaching**: How do I "hop on the train of thought" of a person I respect? How do I get a feel for how they approach a difficult problem? Can we make networked science a reality?
-- **Empathy**: Would it help to see the types of questions that are top-of-mind for people of different backgrounds? Would that provide a better understanding of their lived experiences, and how that shapes their perspectives?
+- **Efficient teaching**: How do I "hop on the train of thought" of a person I respect? Can we make networked science a reality?
 
 Maybe a little too ambitious? Yeah, but it's more fun than shooting for something easy!
 
 # How does it work?
 
-The core idea is relatively simple - users ask questions about challenging topics and link them up with other questions and data. Add a bunch of interesting people with interesting questions, and this creates a big ol' network of searchable, pluggable human thought and discovery.
+The core idea is relatively simple - users ask questions and request evidence on challenging topics. Add a bunch of interesting people with interesting questions, and this creates a big ol' network of searchable, pluggable human thought and discovery.
 
-At this point, you may be wondering, "where are the answers?" It may seem weird to build a search engine with no answers, but our hypothesis is that questions and data (and specifically how questions lead to one another) are far more useful in a creative or discovery setting. Plus, QuestTrain is not a search engine or Q&A forum. Specifically, QuestTrain is designed for making progress on the hard, hairy, ambiguous, and overwhelming problems where there is no single "right answer" - questions like "How does cancer work?" or "How do we solve climate change?" These questions are not going to be solved by a website link or searching for specific, isolated bits of knowledge. Rather, we'll make progress by pulling in ideas from different domains, testing hypotheses against real data, and making connections.
+QuestTrain is designed for making progress on the hard, hairy, ambiguous, and overwhelming problems where there is no single "right answer" - questions like "How does cancer work?" or "How do we solve climate change?" These questions are not going to be solved by a website link or searching for specific, isolated bits of knowledge. Rather, we'll make progress by pulling in ideas from different domains, testing hypotheses against real data, and making connections.
 
-To ground our questions, we also allow users to make **data requests**. These requests allow curious users to suggest a data set schema (the names and types of data columns) for information that could be useful in evaluating their question(s). For example, you could specify column names in a table of anticipated clinical trial results or CO2 sensor arrays.The open data requests will then be filled by other users, or by the QuestTrain platform itself.
+A key component of QuestTrain is a **data request**. These requests allow curious users to suggest a dataset template (the names and types of data columns) for information that could be useful in evaluating their question(s). For example, you could specify column names in a table of anticipated clinical trial results or CO2 sensor arrays. The open data requests will then be filled by other users, or by the QuestTrain platform itself.
 
 # What can you do?
 
@@ -106,6 +105,6 @@ QuestTrain sounds like *question*, and the ".com" domain name was much cheaper. 
 
 # What's the bottom line?
 
-QuestTrain is an attempt to make questions cool. Interested? [Check out questtrain.com!](https://questtrain.com)
+QuestTrain is an attempt to make critical thinking cool. Interested? [Check out questtrain.com](https://www.questtrain.com)!
 
 <sub>* Microfiber sham is a sham. Not actually included.</sub> 
