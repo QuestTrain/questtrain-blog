@@ -57,7 +57,7 @@ categories: background
 
 **By: Michael Vogelsong**
 
-I've always been fascinated with learning. How do I learn something new? How does a community evolve over time to better address the needs of its members - i.e., collectively learn? What happens during that magical transition when a concept goes from foggy foresight to obvious hindsight?
+I've always been fascinated with learning. How do I learn something new? How does a community evolve over time to better address the needs of its members - i.e., collectively learn? What happens during that magical transition when a concept goes from foggy foresight to obvious hindsight? How do I get a more accurate picture of the world?
 
 I believe that the root of learning is not about building a big database of "answers." Rather, it's about crafting **trains of evidence-based questions** that (a) make useful new ideas obvious and natural, and (b) welcomes others into the process. A answer is a wall; a question is an open door.
 
@@ -75,7 +75,7 @@ Maybe a little too ambitious? Yeah, but it's more fun than shooting for somethin
 
 # How does it work?
 
-The core idea is relatively simple - users ask questions and request evidence on challenging topics. Add a bunch of interesting people with interesting questions, and this creates a big ol' network of searchable, pluggable human thought and discovery.
+The core idea is relatively simple - users explore and ask questions on challenging topics. However, every question must be directly or indirectly connected to a request(s) for data. Add a bunch of interesting people with interesting questions, and this creates a big ol' network of searchable, pluggable human thought and discovery, grounded in evidence.
 
 QuestTrain is designed for making progress on the hard, hairy, ambiguous, and overwhelming problems where there is no single "right answer" - questions like "How does cancer work?" or "How do we solve climate change?" These questions are not going to be solved by a website link or searching for specific, isolated bits of knowledge. Rather, we'll make progress by pulling in ideas from different domains, testing hypotheses against real data, and making connections.
 
