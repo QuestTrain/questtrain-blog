@@ -60,9 +60,9 @@ categories: background
 
 **By: Michael Vogelsong**
 
-I've always been fascinated with learning. How do I learn something new? How does a community evolve over time to better address the needs of its members - i.e., collectively learn? What happens during that magical transition when a concept goes from foggy foresight to obvious hindsight? How do I get a more accurate picture of the world?
+I've always been fascinated with learning. How do I learn something new? How do I get a more accurate picture of the world? Do my assumptions line up with reality? What happens when a concept goes from foggy foresight to obvious hindsight?
 
-I believe that the root of learning is not about building a big database of "answers." Rather, it's about crafting **trains of evidence-based questions** that (a) make useful new ideas obvious and natural, and (b) welcomes others into the process. A answer is a wall; a question is an open door.
+I believe that the root of learning is not about building a big database of comments and "answers." Rather, it's about crafting **trains of evidence-based questions** that (a) make useful new ideas obvious and natural, (b) lead to evaluable data, and (c) welcome others into the process. A answer is a wall; a question is an open door.
 
 <div style="text-align:center"><a href="https://www.questtrain.com"><img src="/assets/QuestTrainLogoGreen.png" height="128" /></a></div>
 
@@ -70,19 +70,19 @@ I believe that the root of learning is not about building a big database of "ans
 
 You guessed it, there is no single right answer. But here are some useful framing questions:
 
-- **Understanding engine**: What would a search engine look like if the goal was deeper understanding of challenging or unsolved topics, rather than webpage traffic? What if all results were data-driven?
+- **Understanding engine**: What would a search engine look like if the goal was deeper understanding of challenging or unsolved topics, rather than webpage traffic? What if all results were data (or follow-up questions)?
 - **Version control for critical thinking**: How do we bring the advantages of software development into the learning process? How do we make critical thinking cool?
 - **Efficient teaching**: How do I "hop on the train of thought" of a person I respect? Can we make networked science a reality?
 
 Maybe a little too ambitious? Yeah, but it's more fun than shooting for something easy!
 
-# How does it work?
+# What is the idea?
 
-The core idea is relatively simple - users explore and ask questions on challenging topics. However, every question must be directly or indirectly connected to a request(s) for data. Add a bunch of interesting people with interesting questions, and this creates a big ol' network of searchable, pluggable human thought and discovery, grounded in evidence.
+The core idea is simple - users explore and ask questions on challenging topics. However, every question must be directly or indirectly connected to a request(s) for data. Add a bunch of interesting people with interesting questions, and this creates a big ol' network of searchable, pluggable thought and discovery, grounded in evidence.
 
-QuestTrain is designed for making progress on the hard, hairy, ambiguous, and overwhelming problems where there is no single "right answer" - questions like "How does cancer work?" or "How do we solve climate change?" These questions are not going to be solved by a website link or searching for specific, isolated bits of knowledge. Rather, we'll make progress by pulling in ideas from different domains, testing hypotheses against real data, and making connections.
+QuestTrain is designed for making progress on the hard, hairy, ambiguous, and overwhelming problems where there is no single "right answer" - questions like "How does cancer work?" or "How do we solve climate change?" These questions are not going to be solved by a website link or searching for specific, isolated bits of knowledge. Rather, we'll make progress by pulling in ideas from different domains, testing hypotheses against real data, and making connections among questions and data.
 
-A key component of QuestTrain is a **data request**. These requests allow curious users to suggest a dataset template (the names and types of data columns) for information that could be useful in evaluating their question(s). For example, you could specify column names in a table of anticipated clinical trial results or CO2 sensor arrays. The open data requests will then be filled by other users, or by the QuestTrain platform itself.
+A key component of QuestTrain is a **data request**. These requests - like placeholders - allow curious users to suggest a template (the names and types of data columns) for information that could be useful in evaluating their question(s). For example, you could specify column names in a table of anticipated clinical trial results or CO2 sensor arrays. The open data requests will then be fulfilled by other users, or by the QuestTrain platform itself.
 
 # What can you do?
 
@@ -90,12 +90,12 @@ Some of these features exist now, and others are on the roadmap - stay tuned!
 
 - Ask a question and add it to the network
 - Request data
-- Add your data and connect it to other questions
+- Add your data, fulfill requests, and connect it to other questions
 - Search for related questions
 - Explore the question network, hop around the links, and spark your creativity
 - Follow another user and see their questions, data, and requests
 - Share links to questions or data
-- Share and download data in a standard table format
+- Share and download data in a standard tabular format
 - (Coming soon) Do a "what if?" analysis by assuming a value for a data request, and evaluating how that affects downstream questions
 - (Coming soon) Add automations / APIs / webhooks that trigger when a question's data cart is filled in a way that meets some question's criteria
 - (Coming soon) Analyze and sort questions. For example, which questions lead to the most follow-on questions (most interesting)? Which questions have the most data carts filled (most evidence)? Which questions are requested by the most people (broadest reach)?
